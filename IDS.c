@@ -8,7 +8,10 @@
 #include <stdint.h> 
 
 /*
-
+@param search      -> The value to be searched
+@param insertnode  -> The values to be inserted
+@param select      -> The option to be selected
+@param ids_found    -> Counter variable to increment when found the target
 */
 
 size_t search;
@@ -24,7 +27,6 @@ struct node
  };
 
 // Funnction declaration
-
 void IDDFS(struct node *root,int8_t i);
 
 
