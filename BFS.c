@@ -8,7 +8,12 @@
 #include <stdint.h> 
 
 /*
-
+@param search      -> The value to be searched.
+@param insertnode  -> The values to be inserted.
+@param select      -> The option to be selected.
+@param dfs_found   -> Counter variable to increment when found the target.
+@param queue       -> The array to insert the numbers(Size can vary accordng to your requirements).
+@param front,queue -> These are conditions of queue to traverse the array.
 */
 
 int queue[100];
@@ -17,6 +22,7 @@ static int8_t n=0;
 size_t search;
 static int temp=0;
 
+// A linked list implementation
 struct node
 {
 	int data;
@@ -32,7 +38,7 @@ void dequeue();
 void BFS(struct node *root);
 
  
- struct node *insert(struct node *root, int value)                  // * Insertion of Nodes value and Construction of Tree *
+ struct node *insert(struct node *root, int value)               // * Insertion of Nodes value and Construction of Tree *
  {
  	if(root==NULL)
  	{
@@ -58,7 +64,7 @@ void BFS(struct node *root);
 	}	
  };
  
-  void printNode(struct node *root)                          // * Prints the values of node *
+  void printNode(struct node *root)                // * Prints the values of node *
  {
  	static int bfs_found=0;
  	if(root!=NULL)
