@@ -4,10 +4,14 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <inttypes.h>                                          // We have imported inttypes to lessen the memory usage as much as possible
+#include <inttypes.h>                         // We have imported inttypes to lessen the memory usage as much as possible
 #include <stdint.h> 
 /*
-@param limit    -> It is the limit of the tree, increments accordingly
+@param limit       -> It is the limit of the tree, increments accordingly
+@param search      -> The value to be searched
+@param insertnode  -> The values to be inserted
+@param select      -> The option to be selected
+@param dls_found   -> Counter variable to increment when found the target
 
 */
 
@@ -15,6 +19,7 @@ size_t search;
 static int8_t n=0,dls_found=0;
 static int temp=0;
 
+// A linked list implementation
 struct node
 {
 	int data;
