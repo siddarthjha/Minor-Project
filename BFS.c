@@ -11,7 +11,7 @@
 @param search      -> The value to be searched.
 @param insertnode  -> The values to be inserted.
 @param select      -> The option to be selected.
-@param dfs_found   -> Counter variable to increment when found the target.
+@param bfs_found   -> Counter variable to increment when found the target.
 @param queue       -> The array to insert the numbers(Size can vary accordng to your requirements).
 @param front,queue -> These are conditions of queue to traverse the array.
 */
