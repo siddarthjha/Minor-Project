@@ -33,7 +33,7 @@ For Searching, We need
 
 * Go through the following links for understanding of the following algorithms.
 
-[**DFS**](https://www.javatpoint.com/depth-first-search-algorithm)<br>
-[**BFS**](https://www.javatpoint.com/breadth-first-search-algorithm)<br>
-[**DLS**](https://www.javatpoint.com/ai-uninformed-search-algorithms)<br>
-[**IDDFS**](http://theoryofprogramming.com/2018/01/14/iterative-deepening-depth-first-search-iddfs/)<br>
+1. [**DFS**](https://www.javatpoint.com/depth-first-search-algorithm)<br>
+2. [**BFS**](https://www.javatpoint.com/breadth-first-search-algorithm)<br>
+3. [**DLS**](https://www.javatpoint.com/ai-uninformed-search-algorithms)<br>
+4. [**IDDFS**](http://theoryofprogramming.com/2018/01/14/iterative-deepening-depth-first-search-iddfs/)<br>
