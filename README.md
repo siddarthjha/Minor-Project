@@ -30,3 +30,10 @@ For Searching, We need
 1. Initial state description of problem.
 2. Set of legal operators[Conditions].
 3. Final (or) goal state.
+
+* Go through the following links for understanding of the following algorithms.
+
+[**DFS**](https://www.javatpoint.com/depth-first-search-algorithm)<br>
+[**BFS**](https://www.javatpoint.com/breadth-first-search-algorithm)<br>
+[**DLS**](https://www.javatpoint.com/ai-uninformed-search-algorithms)<br>
+[**IDDFS**](http://theoryofprogramming.com/2018/01/14/iterative-deepening-depth-first-search-iddfs/)<br>
