@@ -42,15 +42,15 @@ We have entered the following data: 65,24,78,70,96,22,39,12,23,5,15,3,10,100,85.
 <br>
 ![image](https://github.com/siddarthjha/Minor-Project/blob/master/Image/data1.PNG)<br>
 Now, we will perform search of a particular value with all four of the algorithms.
-<br>
-![BFS](https://github.com/siddarthjha/Minor-Project/blob/master/Image/ot1.PNG)<br>
-The time taken to find (96) is 35.8 sec with BFS Algorithm.<br>
-![DFS](https://github.com/siddarthjha/Minor-Project/blob/master/Image/ot2.PNG)<br>
-The time taken to find(96) is 30.98 sec with DFS Algorithm.<br>
-![DLS](https://github.com/siddarthjha/Minor-Project/blob/master/Image/ot1.3.PNG)<br>
-The time taken to find(96) is 34.41 sec with DLS Algorithm.<br>
-![DFS](https://github.com/siddarthjha/Minor-Project/blob/master/Image/ot1.4.PNG)<br>
-The time taken to find(96) is 27.42 sec with IDDFS Algorithm.<br>
-Alright, By seeing the different time taken by different algorithms you can see the optimized algorithm, but it's not necessary that IDDFS algorithm will give you the optimized result always.<br>
+<br><br><br>
+![BFS](https://github.com/siddarthjha/Minor-Project/blob/master/Image/ot1.PNG)<br><br>
+The time taken to find (96) is 35.8 sec with BFS Algorithm.<br><br><br>
+![DFS](https://github.com/siddarthjha/Minor-Project/blob/master/Image/ot2.PNG)<br><br>
+The time taken to find(96) is 30.98 sec with DFS Algorithm.<br><br><br>
+![DLS](https://github.com/siddarthjha/Minor-Project/blob/master/Image/ot1.3.PNG)<br><br>
+The time taken to find(96) is 34.41 sec with DLS Algorithm.<br><br><br>
+![DFS](https://github.com/siddarthjha/Minor-Project/blob/master/Image/ot1.4.PNG)<br><br>
+The time taken to find(96) is 27.42 sec with IDDFS Algorithm.<br><br><br>
+**Alright, By seeing the different time taken by different algorithms you can see the optimized algorithm, but it's not necessary that IDDFS algorithm will give you the optimized result always.**<br>
 1. This was applied for large datasets where there may be infinite long trees and take a lot of time to traverse in such cases IDDFS algorithm will give you the best result.
 
