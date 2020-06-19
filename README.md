@@ -40,5 +40,4 @@ For Searching, We need
 
 We have entered the following data: 65,24,78,70,96,22,39,12,23,5,15,3,10,100,85.
 <br>
-It's representation in a tree would be like:
 ![image](https://github.com/siddarthjha/Minor-Project/blob/master/Image/data1.PNG)
