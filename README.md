@@ -38,7 +38,7 @@ For Searching, We need
 3. [**DLS**](https://www.javatpoint.com/ai-uninformed-search-algorithms)<br>
 4. [**IDDFS**](http://theoryofprogramming.com/2018/01/14/iterative-deepening-depth-first-search-iddfs/)<br>
 
-We have entered the following data: 
+We have entered the following data: 65,24,78,70,96,22,39,12,23,5,15,3,10,100,85.
 
 It's representation in a tree would be like:
 [!image]()
