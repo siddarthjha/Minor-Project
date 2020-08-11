@@ -58,5 +58,13 @@ Now, we will perform search of a particular value with all four of the algorithm
 
 **Note:** If you have any more insight on this you can pull request. Will be happy to see your contribution :)
 
+## How to Contribute
+
+This is an open project and contribution in all forms are welcomed.
+Please follow these [Contribution Guidelines](CONTRIBUTING.md)
+
+## Code of Conduct
+
+Adhere to the GitHub specified community [code](CODE_OF_CONDUCT.md).
 
 
